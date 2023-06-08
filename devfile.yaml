@@ -5,5 +5,5 @@ components:
   - name: tools
     container:
       image: quay.io/devfile/universal-developer-image:ubi8-latest
-      memoryRequest: 8Gi
+      memoryRequest: 7Gi
       cpuLimit: 3500m
