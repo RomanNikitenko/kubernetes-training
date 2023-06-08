@@ -7,6 +7,3 @@ components:
       image: quay.io/devfile/universal-developer-image:ubi8-latest
       memoryRequest: 8Gi
       cpuLimit: 3500m
-  - name: projects
-    volume:
-      size: 3Gi
